@@ -1,5 +1,7 @@
 # Tript
 
+Tript is a project created as part of the General Assembly Immersive in Sydney, in collaboration with fellow classmates Chris ([https://github.com/Chrispy1987](https://github.com/Chrispy1987)) & Sid ([https://github.com/sid-s1](https://github.com/sid-s1)). The original repo used for the collaboration is at [https://github.com/sid-s1/Travel-App](https://github.com/sid-s1/Travel-App).
+
 Tript is a digital travel diary, allowing you to save details of all your favourite trips, activities & hotels. You can also search trips posted by other users allowing you to find new and exciting places to go.
 
 You can find the Tript at [https://ga-tript.herokuapp.com/](https://ga-tript.herokuapp.com/).
